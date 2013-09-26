@@ -1,0 +1,9 @@
+cp2utf
+
+This tool converts ANSI CP-1251 file with russian text to an UTF-8 text file.
+
+To build run:
+	make
+
+Usage:
+	cp2utf input.txt output.txt
